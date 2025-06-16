@@ -1,2 +1,2 @@
 # HackTheBox
-Machine
+Machine reports resolved from the HacktheBox platform
